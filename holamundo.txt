@@ -2,3 +2,5 @@ hola mundo
 probando codigos y comandos de git
 we
 hfg kdjsd ce
+
+hoy es miercoles el segundo dia
